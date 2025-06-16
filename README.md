@@ -13,6 +13,7 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-GCP-blue?logo=googlecloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Reporting-lightgrey?logo=googleanalytics&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Sheets-Analytics-brightgreen?logo=googlesheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white)
